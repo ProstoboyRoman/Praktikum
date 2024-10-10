@@ -1,0 +1,45 @@
+body {
+  background-color: lightblue;
+}
+H1 {
+	text-align: center;
+	border-style: none none solid none;
+}
+H2{
+text-align: center;
+color: orange;
+text-shadow: -1px -1px 0 black, 1px -1px 0 darkgreen, 1px 1px 0 black,
+    1px 1px 0 black;
+text-decoration: solid black;
+}
+
+p{
+text-align: center;
+}
+
+
+.container {
+    display: flex; /* Use Flexbox for layout */
+    justify-content: space-between; /* Space between the divs */
+    align-items: flex-start; /* Align items at the top */
+    height: 100vh; /* Full viewport height */
+    padding: 20px; /* Add some padding */
+}
+
+.CatIMG {
+    display: flex; /* Optional: Center content inside this div */
+    align-items: center;
+    justify-content: center;
+    width: 50%; /* Adjust width as needed */
+	height: 900px;
+	background-color: red;
+}
+
+.Info {
+    width: 50%; /* Adjust width as needed */
+    
+    background-color: white; /* Background for visibility */
+    border: 1px solid #ccc;
+	height: 900px;
+   
+}
