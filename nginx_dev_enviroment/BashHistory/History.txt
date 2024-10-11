@@ -1,0 +1,1116 @@
+    1  ifconfig
+    2  clear
+    3  ls
+    4  cd Desktop
+    5  pwd
+    6  cd ..
+    7  pwd
+    8  clear
+    9  ls -a
+   10  nano .zshrc
+   11  clear
+   12  ls
+   13  clear
+   14  ls -a
+   15  cp .zshrc .zshrc.1 
+   16  ls -a
+   17  nano .zshrc
+   18  clear
+   19  nano .zshrc
+   20  clear
+   21  ls
+   22  echo $SHELL
+   23  env
+   24  ls
+   25  echo $SHELL
+   26  cd Documents
+   27  cd ..
+   28  ls -a
+   29  clear
+   30  open .
+   31  clear
+   32  echo $SHELL
+   33  cd /bin/zsh
+   34  cd /bin
+   35  ls
+   36  ~~/.zshrc
+   37  sudo ~/.zshcr
+   38  clear
+   39  cd ~
+   40  ls -a
+   41  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   42  clear
+   43  ls
+   44  cd D
+   45  cd Desktop
+   46  clear
+   47  nano .zshrc
+   48  ls -a
+   49  cd ..
+   50  clear
+   51  nano .zshrc
+   52  ls
+   53  clear
+   54  nano .zshrc
+   55  clear
+   56  cd Desktop
+   57  clear
+   58  cd ..
+   59  clear
+   60  cd Desktop
+   61  ls -a
+   62  install fastfetch
+   63  man install
+   64  clear
+   65  brew install fastfetch
+   66  sudo chown -R rtalakh /usr/local/Homebrew /usr/local/etc/bash_completion.d /usr/local/share/doc /usr/local/share/man /usr/local/share/man/man1 /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew/locks
+   67  brew install fastfetch
+   68  fastfatch
+   69  ls
+   70  cd..
+   71  fastfetch
+   72  echo $SHELL
+   73  brew install fastfetch
+   74  brew link fastfetch
+   75  sudo chown -R rtalakh /usr/local/share/fish/vendor_completions.d 
+   76  brew install fastfetch
+   77  brew link fastfetch
+   78  fastfetch
+   79  clear
+   80  fastfetch
+   81  clear
+   82  cd ..
+   83  cd..
+   84  clear
+   85  ssh-keygen -t rsa
+   86  cd .ssh
+   87  ls -a
+   88  cd newkey
+   89  less newkey
+   90  mkdir ssh-Keys-Test
+   91  mv newkey /ssh-Keys-Test/
+   92  ls -a
+   93  mv ~/newkey ssh-Keys-Test
+   94  ls
+   95  ls -a
+   96  mv ~/newkey.pub ssh-Keys-Test
+   97  ls -a
+   98  cd ssh-Keys-Test
+   99  ls
+  100  clear
+  101  less newkey.pub
+  102  ls
+  103  docker ps
+  104  clear
+  105  docker ps
+  106  docker run -it debian /bin/bash
+  107  clear
+  108  docker run debian
+  109  docker run 69b966eeff56e84132edad2a441c57848ff6599611cf667dc862d8980d0fa97f
+  110  sudo docker run debian
+  111  sudo docker run 69b966eeff56e84132edad2a441c57848ff6599611cf667dc862d8980d0fa97f
+  112  ls
+  113  cd /bin
+  114  ls
+  115  ls -a
+  116  cd ~
+  117  ls -a
+  118  cd .docker
+  119  ls
+  120  clear
+  121  ls -a
+  122  cd run
+  123  ls -a
+  124  cd ..
+  125  clear
+  126  docker ps
+  127  docker run -d --name A1  /bin/bash -c "echo 'Hello World'; sleep infinity"
+  128  docker run -d A1  /bin/bash -c "echo 'Hello World'; sleep infinity"
+  129  docker run -d --name demo-2 ubuntu /bin/bash -c "echo 'Hello World'; sleep infinity"
+  130  docker ps
+  131  docker run -d --name A1 debian /bin/bash -c "echo 'Hello World'; sleep infinity"
+  132  docker run -d --name A2 debian /bin/bash -c "echo 'Hello World'; sleep infinity"
+  133  clear
+  134  docker run -it debian sh
+  135  docker run -it debian /bin/bash
+  136  clear
+  137  docker ps
+  138  debian run A2 
+  139  docker run -d A2
+  140  clear
+  141  docker ps
+  142  docker exec A2 sh
+  143  docker ps
+  144  docker exec A2 /bin/bash/
+  145  clear
+  146  docker ps
+  147  brew install item2
+  148  docker ps
+  149  docker container run -it debian sh
+  150  docker container run -it debian /bin/bash
+  151  docker ps
+  152  docker container exec -it debian /bin/bash
+  153  docker container exec -it A2 /bin/bash
+  154  docker ps
+  155  docker container exec -it A2 bash
+  156  docker run -it nginx bash
+  157  docker ps
+  158  docker container exec -it A2 bash
+  159  docker ps
+  160  docker run nginx -d 
+  161  docker run -d  nginx  
+  162  docker ps
+  163  ifconfig
+  164  clear
+  165  docker ps
+  166  docker run -d  A2 
+  167  docker ecxec A2
+  168  docker container exec -it A2 bash
+  169  docker container run -it debian /bin/bash
+  170  docker run -d A2
+  171  clear
+  172  docker start A2
+  173  docker ps
+  174  docker inspect A2
+  175  docker ps
+  176  docker inspect A2 | greap Ip*
+  177  docker inspect A2 | greap "IP*"
+  178  docker inspect A2 | grep "IP*"
+  179  docker inspect A2 | grep "IPAd*"
+  180  docker inspect A2 | grep "IPAdd*"
+  181  docker inspect A2 | grep "IPAddress"
+  182  clear
+  183  docker inspect A2 | grep "IPAddress"
+  184  docker logs
+  185  docker logs A2
+  186  docker service logs A2
+  187  docker logs A2
+  188  docker ps
+  189  docker start clear
+  190  clear
+  191  docker run -d --name web1 
+  192  docker run --name web1 nginx
+  193  docker ps
+  194  docker container ls
+  195  docker port web1
+  196  docker container port web1
+  197  docker ps
+  198  docker port web1
+  199  docker port A2
+  200  docker container ls
+  201  docker exec web1
+  202  docker exec web1 bash
+  203  docker ps
+  204  docker start -b web1
+  205  docker start web1
+  206  docker ps
+  207  clear
+  208  docker ps
+  209  docker run -p  8080:80 nginx
+  210  clear
+  211  docker ps
+  212  docker run -p --name web2  8081:80 nginx
+  213  docker run -p web2  8081:80 nginx
+  214  clear
+  215  docker ps
+  216  docker exec vibrant_sammet bash
+  217  docker exec vibrant_sammet /bin/bash
+  218  clear
+  219  docker exec web1 /bin/bash
+  220  docker exec -it vibrant_sammet bash
+  221  docker ps
+  222  history
+  223  /install
+  224  history
+  225  docker exec -it A2 bash
+  226  clear
+  227  docker ps
+  228  docker kill web1
+  229  docker ps
+  230  kill vibrant_sammet
+  231  docker ps
+  232  docker exec -it vibrant_sammet bash
+  233  kill vibrant_sammet
+  234  docker stop vibrant_sammet
+  235  docker ps
+  236  docker start vibrant_sammet
+  237  apt update
+  238  docker exec -it vibrant_sammet bash
+  239  clear
+  240  kill vibrant_sammet
+  241  sudo kill vibrant_sammet
+  242  ls
+  243  docker ps
+  244  docker stop vibrant_sammet
+  245  docker ps
+  246  kill vibrant_sammet
+  247  docker run -it nginx bash
+  248  docker ps
+  249  kill unruffled_zhukovsky
+  250  docker exec -it webserver4 nginx -s reload
+  251  docker ps
+  252  docker exec -it unruffled_zhukovsky nginx -s reload
+  253  docker ps
+  254  kill unruffled_zhukovsky
+  255  clear
+  256  docker ps
+  257  clear
+  258  docker kill vibrant_sammet
+  259  docker ps
+  260  docker exec -it web1 bash
+  261  docker exec -it vibrant_sammet bash
+  262  docker satrt vibrant_sammet
+  263  docker container satrt vibrant_sammet
+  264  docker start vibrant_sammet
+  265  docker ps
+  266  docker stop vibrant_sammet
+  267  docker ps
+  268  docker kill 8f28615ec0a0
+  269  docker start vibrant_sammet
+  270  docker kill 8f28615ec0a0
+  271  docker start vibrant_sammet
+  272  docker ps
+  273  docker ps -a
+  274  clear
+  275  docker ps
+  276  docker kill 8f28615ec0a0
+  277  docker ps
+  278  docker ps -a
+  279  docker start 8f28615ec0a0
+  280  history | less
+  281  docker ps
+  282  docker kill 8f28615ec0a0 
+  283  docker ps
+  284  docker run nginx 8080:80 
+  285  history | less
+  286  docker run -p  nginx 8080:80 
+  287  docker ps -a
+  288  docker run -p   8080:80 
+  289  docker run -p vibrant_sammet 8080:80 
+  290  docker run -p  nginx 8081:80 
+  291  docker run -p nginx 8083:80 
+  292  docker run -p nginx 80855:80 
+  293  docker run -p nginx 8000:80 
+  294  docker run -p nginx 1050:80 
+  295  docker run -p nginx 1060:80 
+  296  docker run -p nginx 8070:80 
+  297  docker run -p nginx 8079:80 
+  298  docker ps -a
+  299  docker run nginx -p 8080:80 
+  300  docker run -p 8080:80 nginx
+  301  docker ps
+  302  docker volume ls
+  303  docker volume create my-vol
+  304  docker volume ls
+  305  docker run -d web2 -v source=my-vol nginx bash
+  306  docker run -d -v source=my-vol nginx bash
+  307  docker ps
+  308  docker inspect 3775991a0348cc8b26f149bf6ca43dc4c70be6ddc781b7785356af39f7cc3456
+  309  clear
+  310  docker ps
+  311  docker ps -a
+  312  docker start vigorous_fermat bash
+  313  docker run M1 -d -it nginx bash
+  314  docker run -d -it nginx bash
+  315  docker run -d --name M1 -it nginx bash
+  316  docker ps
+  317  docker volune ls
+  318  docker volume ls
+  319  docker run -d --name M2 -v source=my-vol -it nginx bash
+  320  docker volume create m2
+  321  docker volume ls
+  322  docker run -d --name M1 -v source=my-vol nginx bash
+  323  docker run -d --name M1 -v my-vol nginx bash
+  324  docker run -d --name M1 -v my-vol nginx 
+  325  docker run -d --name M1 -v my-vol/world nginx 
+  326  docker run -d -v my-vol:/world
+  327  docker run -d --name M1 -v source=my-vol, target=/usr/share/nginx/html nginx 
+  328  docker run -d --name M1 -v source=my-vol,target=/usr/share/nginx/html nginx 
+  329  clear
+  330  docker run -d --name M1 --mount source=my-vol,target=/usr/share/nginx/html nginx 
+  331  clear
+  332  docker ps
+  333  docker exec M1 bash
+  334  docker exec -it M1 bash
+  335  cat /proc/cpuinfo
+  336  ps aux
+  337  top
+  338  sudo reboot
+  339  top
+  340  clear
+  341  docker exec -it M1 bash
+  342  docker exec M1 bash
+  343  docker exec -it M1 bash
+  344  docker kill M1
+  345  docker run -d --name M2 --mount source=my-vol,target=/usr/share/nginx/html nginx 
+  346  docker exec -it M1 bash
+  347  docker exec -it M2 bash
+  348  docker run -d --name M2 --mount source=my-vol,target=/usr/share/nginx/html -p 8080:80 nginx 
+  349  docker run -d --name M3 --mount source=my-vol,target=/usr/share/nginx/html -p 8080:80 nginx 
+  350  docker exec -it M3 bash
+  351  clear
+  352  docker ps
+  353  top
+  354  docker ps
+  355  docker ps -a
+  356  docker start M2
+  357  docker ps 
+  358  docker exec -it M2 bash
+  359  clear
+  360  docker kill M2
+  361  docker ps
+  362  docker start M3
+  363  git clone git@github.com:ProstoboyRoman/Praktikum.git 
+  364  git clone git@github.com:ProstoboyRoman/Praktikum.git
+  365  ssh -keygen -t ed25519 -C roamn.talakh1234@gmail.com
+  366  ssh-keygen -t ed25519 -C roamn.talakh1234@gmail.com
+  367  clear
+  368  cd user/rtalakh/.ssh
+  369  cd /Users/rtalakh/.ssh
+  370  ls
+  371  eval "$(ssh-agent -s)"
+  372  cd ~
+  373  git clone git@github.com:ProstoboyRoman/Praktikum.git
+  374  ssh -T git@github.com
+  375  git clone git@github.com:ProstoboyRoman/Praktikum.git
+  376  pbcopy < ~/.ssh/id_ed25519.pub
+  377  ssh -T git@github.com
+  378  git clone git@github.com:ProstoboyRoman/Praktikum.git
+  379  cd ssh -v
+  380  ssh -v
+  381  history | less
+  382  cd /Users/rtalakh/.ssh
+  383  ls
+  384  ssh -T git@github.com
+  385  history | less
+  386  ssh -T git@github.com
+  387  ls
+  388  cd ~
+  389  ls
+  390  cd Praktikum
+  391  ls
+  392  vim README.md
+  393  cd ..
+  394  cd Vs_Roman
+  395  ls
+  396  cd Mitwoch
+  397  ls
+  398  vim README.md
+  399  cd ..
+  400  cd..
+  401  cd ..
+  402  clear
+  403  ls 
+  404  ls
+  405  cd praltikum
+  406  cd Praktikum
+  407  ls
+  408  cp -r /Vs_Roman/ /Praktikum/
+  409  ls
+  410  cd ..
+  411  ls
+  412  cp -r /Vs_Roman/ /Praktikum
+  413  cp  /Vs_Roman/ /Praktikum
+  414  cp Vs_Roman  Praktikum
+  415  cp -r Vs_Roman  Praktikum
+  416  ls
+  417  cd Praktikum
+  418  ls
+  419  cd Vs_Roman
+  420  ls
+  421  cd Montag
+  422  ls
+  423  vim README.md
+  424  cd ..
+  425  ls
+  426  git status
+  427  init
+  428  git add
+  429  git add Vs_Roman/
+  430  git status
+  431  git restore --staged Vs_Roman/
+  432  git status
+  433  git add Vs_Roman/
+  434  git status
+  435  git commit "First commit"
+  436  git commit First commit
+  437  git commit 
+  438  git status
+  439  git push
+  440  ls 
+  441  cd Vs_Roman
+  442  ls
+  443  cd ..
+  444  mv Vs_Roman/Montag pwd
+  445  ls
+  446  cd pwd
+  447  cd ..
+  448  rm pwd
+  449  ls
+  450  rmdir pwd
+  451  ls
+  452  cd pwd
+  453  ls
+  454  rm README.md
+  455  cd ..
+  456  rmdir pwd
+  457  ls
+  458  clear
+  459  ls
+  460  vim README.md
+  461  clear
+  462  cd Vs_Roman
+  463  ls
+  464  cd ...
+  465  ls
+  466  cd Praktikum
+  467  ls
+  468  rm -r Vs_Roman
+  469  ls
+  470  cd ..
+  471  mv Vs_Roman/Montag/README.md Praktikum/Montag.md
+  472  cd Praktikum
+  473  ls
+  474  cd ..
+  475  mv Vs_Roman/Dienstag/README.md Praktikum/Dienstag.md
+  476  mv Vs_Roman/Mitwoch/README.md Praktikum/Mittwoch.md
+  477  cd Praktikum
+  478  ls
+  479  git add
+  480  git add Mittwoch.md Montag.md Dienstag.md
+  481  git status
+  482  git commit -m "ohne folder"
+  483  git status
+  484  git push
+  485  git rm Vs_Roman/
+  486  git rm -r Vs_Roman/
+  487  git commit
+  488  git commit -m "gelöscht alte folder"
+  489  git push
+  490  ls
+  491  git clone git@github.com:El-Babero/El-Babero.git\n\n
+  492  ls
+  493  cd El-Babero
+  494  ls
+  495  vim test2
+  496  git add test2
+  497  git commit -m "test ruleset\n''\n"
+  498  git status
+  499  git checkout -b test_branch2
+  500  git push
+  501  cd ..
+  502  clear
+  503  sudo su
+  504  ls
+  505  cd El-Babero
+  506  ls
+  507  git push 
+  508  cd El-Babero
+  509  git push
+  510  ls
+  511  cd Vs_Roman
+  512  ls
+  513  cd Dienstag
+  514  ls 
+  515  cd ..
+  516  cd Mitwoch
+  517  ls
+  518  cd ..
+  519  cd Montag
+  520  ls
+  521  cd ..
+  522  clear
+  523  ls
+  524  rmdir Dienstag Mitwoch Montag
+  525  ls
+  526  cd ..
+  527  cp Praktikum
+  528  cp Praktikum/Dienstag.md Vs_Roman
+  529  cd Vs_Roman
+  530  ls
+  531  cd ..
+  532  cleaer
+  533  clear
+  534  cp Praktikum/Montag.md Vs_Roman
+  535  cp Praktikum/Mittwoch.md Vs_Roman
+  536  cd Vs_Roman
+  537  ls
+  538  clear
+  539  ls
+  540  cd ..
+  541  ls
+  542  cd Praktikum
+  543  ls
+  544  clear
+  545  git log
+  546  git config --global user.name "Roman Talakh"
+  547  git config --global user.email roman.talakh1234@gmail.com
+  548  git log
+  549  ls
+  550  touch text.txt
+  551  git status
+  552  git add text.txt
+  553  git commit -m "Test"
+  554  git push
+  555  git log
+  556  cd ..
+  557  ls
+  558  cd rtalakh
+  559  ls
+  560  clear
+  561  git clone git@github.com:Joooonnaaasss/Praktikums-Repository.git
+  562  ls
+  563  Praktikums-Repository
+  564  ls
+  565  toch roman_was_hier.md
+  566  touch roman_was_hier.md
+  567  ls
+  568  git add roman_was_hier.md
+  569  git status
+  570  git commit roman_was_hier.md
+  571  git status
+  572  git push
+  573  git checkout -b BranchTest
+  574  git branch -a
+  575  git log
+  576  git status
+  577  pwd
+  578  ls
+  579  cd..
+  580  cd ..
+  581  ls
+  582  Praktikums-Repository
+  583  ls
+  584  git push
+  585  git pull
+  586  git pull(1)
+  587  git pull1
+  588  clear
+  589  cd ..
+  590  cd Praktikums-Repository
+  591  git checkout origin/BranchTest
+  592  git push -u origin BranchTest
+  593  git push
+  594  git status
+  595  ls
+  596  touch some.txt
+  597  git status
+  598  git add some.txt
+  599  git status
+  600  git commit -m "some datei"
+  601  git status
+  602  git push
+  603  git log
+  604  gh pr create
+  605  cd ..
+  606  gh pr create
+  607  cd ..
+  608  ls
+  609  cd rtalakh/
+  610  ls
+  611  cd Praktikum
+  612  ls
+  613  cd ..
+  614  ls
+  615  cd Praktikums-Repository
+  616  cd ..
+  617  ls
+  618  cd Praktikums-Repository
+  619  ls
+  620  git push
+  621  cd ..
+  622  git clone git@github.com:Joooonnaaasss/Praktikums-Repository.git
+  623  cd Praktikums-Repository
+  624  ls
+  625  git log
+  626  cd ..
+  627  git log
+  628  cd Praktikums-Repository
+  629  git log
+  630  git push
+  631  cd ..
+  632  git clone git@github.com:El-Babero/El-Babero.git
+  633  ls
+  634  cd El-Babero
+  635  ls
+  636  gir checout main
+  637  git checkout main
+  638  git pull
+  639  git config pull.rebase true
+  640  git checkout -b testbranch
+  641  ls
+  642  touch RomanDatei.md
+  643  ls
+  644  git add 
+  645  git add RomanDatei.md
+  646  git commit -m "test"
+  647  git push
+  648  git push --set-upstream origin testbranch
+  649  docker ps
+  650  dcoekr ecxec M3 bash
+  651  dcoekr exec M3 bash
+  652  doeckr exec M3 bash
+  653  doeckr ecxec M3 bash
+  654  doeckr exec -it M3 bash
+  655  docker exec -it f9763829cdfe bash
+  656  ls
+  657  mkdir mymount
+  658  ls
+  659  pwd
+  660  docker run -d /Users/rtalakh/mymount mymountcontainer nginx -p 8080:80
+  661  docker run -d -v /Users/rtalakh/mymount mymountcontainer nginx -p 8080:80
+  662  docker run -d -v /Users/rtalakh/mymount:/mymountcontainer -p 8080:80 nginx
+  663  docker ps
+  664  docker run -d -v /Users/rtalakh/mymount:/share/nginx/html -p 8080:80 nginx
+  665  docker ps
+  666  docker run -d -v /Users/rtalakh/mymount:/share/nginx/html -p 8081:80 nginx
+  667  docker ps
+  668  ls
+  669  cd mymount
+  670  ls
+  671  docker exec -it 39514cd32464 bash
+  672  ls
+  673  cd mymount
+  674  toutch newindex.html
+  675  touch newindex.html
+  676  ls
+  677  vim newindex.html
+  678  mv newindex.html newindex.md
+  679  ls
+  680  pwd
+  681  touch n.html
+  682  ls
+  683  cd ..
+  684  ls
+  685  cd rtalakh
+  686  ls
+  687  cd mymount
+  688  ls
+  689  n.html
+  690  open n.html
+  691  vs n.html
+  692  code .
+  693  docker ps
+  694  ls
+  695  mv n.html index.html
+  696  docker ps
+  697  docker ps -a
+  698  docker ps
+  699  docker exec -it 39514cd32464 bash
+  700  ls
+  701  touch new.txt
+  702  ls
+  703  touch text.txt
+  704  vim text.txt
+  705  touch index.html
+  706  vim index.html
+  707  docker kill 39514cd32464
+  708  docker run -d -v /Users/rtalakh/mymount:/share/nginx/html -p 8081:80 nginx
+  709  docker exec -it de35f3e5202d00bf9c8bf155469b48cf49c8452ccb450be5a5f031ea9ef5baad bash
+  710  cat index.html
+  711  ls
+  712  apt install firefox
+  713  brew install firefox
+  714  docker ps
+  715  docker kill f9763829cdfe
+  716  docker ps
+  717  docker kill f9763829cdfe
+  718  docker ps
+  719  docker kill de35f3e5202d
+  720  docker run -d -v /Users/rtalakh/mymount:/share/nginx/html -p 8081:80 nginx
+  721  docker exec -it 8354e5e948a7cb374f5b14eb222527480ec78decb6c78f76b43f863eada12972 bash
+  722  docker stop 8354e5e948a7cb374f5b14eb222527480ec78decb6c78f76b43f863eada12972
+  723  docker start 8354e5e948a7cb374f5b14eb222527480ec78decb6c78f76b43f863eada12972
+  724  docker stop 8354e5e948a7cb374f5b14eb222527480ec78decb6c78f76b43f863eada12972
+  725  docker start 8354e5e948a7cb374f5b14eb222527480ec78decb6c78f76b43f863eada12972
+  726  docker exec -it 8354e5e948a7cb374f5b14eb222527480ec78decb6c78f76b43f863eada12972 bash
+  727  docker ps
+  728  cd..
+  729  cd .
+  730  cd ..
+  731  ls
+  732  clear
+  733  mkdir GitConnect
+  734  ls
+  735  ls 
+  736  cd Praktikum
+  737  ls
+  738  mkdir ConnectToLocal
+  739  ls
+  740  rmdir ConnectToLocal
+  741  ls 
+  742  mkdir nginx_dev_enviroment
+  743  ls
+  744  clear
+  745  ls
+  746  cd nginx_dev_enviroment
+  747  touch index.html
+  748  ls
+  749  cd ..
+  750  git add
+  751  git add nginx_dev_enviroment/index.html
+  752  git commit -m "gint"
+  753  git push
+  754  ls
+  755  cd nginx_dev_enviroment
+  756  ls
+  757  git status
+  758  git push
+  759  git pull
+  760  cd ..
+  761  git push
+  762  git status
+  763  git commit 
+  764  git push nginx_dev_enviroment
+  765  cd nginx_dev_enviroment
+  766  ls
+  767  cd ..
+  768  ls
+  769  rm -r nginx_dev_enviroment
+  770  git add nginx_dev_enviroment/
+  771  git add 
+  772  git status 
+  773  git fetch
+  774  git status 
+  775  git commit -m "1"
+  776  git fetch
+  777  git push
+  778  ls
+  779  git pull
+  780  git config pull.rebase true
+  781  git pull
+  782  mkdir nginx_dev_enviroment
+  783  cd nginx_dev_enviroment
+  784  ls
+  785  touch index.html
+  786  git add index.html
+  787  git commint -m "1"
+  788  git commit -m "1"
+  789  git push 
+  790  ld
+  791  ls
+  792  vim index.html
+  793  git add index.html
+  794  git commit -m "2"
+  795  git push
+  796  cd ..
+  797  ls
+  798  cd Praktikums-Repository
+  799  git pull
+  800  ls
+  801  vim roman_was_hier.md
+  802  git add roman_was_hier.md
+  803  git commit -m "1"
+  804  git push 
+  805  cd ..
+  806  ls
+  807  cd ..
+  808  ls
+  809  docker pull httpd
+  810  docker run -b -p 8080:80 httpd 
+  811  docker run  -p 8080:80 httpd 
+  812  docker ps
+  813  git exec -it d918acd85830 bash
+  814  docker exec -it d918acd85830 bash
+  815  docker ps
+  816  docker start d918acd85830
+  817  dpcker ps
+  818  docker ps
+  819  docker exec -it d918acd85830 bash
+  820  ls
+  821  cd Praktikum
+  822  clear
+  823  ls
+  824  cd nginx_dev_enviroment
+  825  pwd
+  826  docker run -d -p 8080:80 -v /Users/rtalakh/Praktikum/nginx_dev_enviroment:/usr/local/apache2/htdocs httpd 
+  827  docker ps
+  828  docker run -d -p 8082:80 -v /Users/rtalakh/Praktikum/nginx_dev_enviroment:/usr/local/apache2/htdocs httpd 
+  829  docker ps
+  830  ls
+  831  vim index.html
+  832  git status
+  833  git add index.html
+  834  git commit -m "4"
+  835  git push
+  836  vim index.html
+  837  ls
+  838  vim styles.css
+  839  cd Praktikum
+  840  cd nginx_dev_enviroment
+  841  ls
+  842  vim index.html
+  843  vim styles.css
+  844  vim index.html
+  845  brew install rectangle
+  846  vim styles.css
+  847  ls
+  848  code .
+  849  cd ..
+  850  ls
+  851  cd Praktikum
+  852  ls
+  853  code text.txt
+  854  vim index.html
+  855  history
+  856  docker ps
+  857  ls
+  858  cd Downloads
+  859  ls
+  860  mv cat-with-shirt-that-says-cat-it_979262-597.jpg cat.jpg
+  861  ls
+  862  cd Praktikum
+  863  ls
+  864  cd nginx_dev_enviroment
+  865  ls
+  866  pwd
+  867  mv cat.jpg /Users/rtalakh/Praktikum/nginx_dev_enviroment/cat.jpg
+  868  ls
+  869  cd nginx_dev_enviroment
+  870  ls 
+  871  cd ..
+  872  code nginx_dev_enviroment
+  873  git status
+  874  git add index.html cat.jpg styles.css
+  875  git status
+  876  git commit -m "Lebenslauf Website Docker"
+  877  git status
+  878  git push
+  879  clear
+  880  ls
+  881  cd ..
+  882  ls
+  883  rm Jonas_war_hier.md
+  884  ls 
+  885  rm text.txt
+  886  ls
+  887  vim Textdatei1.md
+  888  rm Textdatei1.md
+  889  vim jules_war_hier
+  890  ls
+  891  rm jules_war_hier
+  892  ls
+  893  git status
+  894  git add Jonas_war_hier.md Textdatei1.md  text.txt jules_war_hier
+  895  ls
+  896  git status
+  897  git commit -m "Remov"
+  898  git status
+  899  git push
+  900  mkdir TagesBericht
+  901  ls
+  902  mv Dienstag.md TagesBericht/Dienstag.md
+  903  ls
+  904  mv Mittwoch.md TagesBericht/Mittwoch.md
+  905  mv Montag.md TagesBericht/Montag.md
+  906  ls
+  907  cd TagesBericht
+  908  ls
+  909  cd ..
+  910  git add TagesBericht
+  911  git status
+  912  git add Dienstag.md Mittwoch.md Montag.md
+  913  git status
+  914  git cmmit -m "TagesBericht"
+  915  git status
+  916  git push
+  917  git status
+  918  git push
+  919  git add *
+  920  git push
+  921  ls
+  922  vim README.md
+  923  cd nginx_dev_enviroment
+  924  ls 
+  925  vim README.md
+  926  cd ..
+  927  vim README.md
+  928  l
+  929  ls
+  930  cd Praktikum
+  931  ls
+  932  cd g
+  933  vim README.md
+  934  ls .laht
+  935  ls _laht
+  936  ls -laht
+  937  cat .README.md.swp
+  938  less .README.md.swp
+  939  vim README.md
+  940  ls
+  941  nginx_dev_enviroment
+  942  ls
+  943  vim index.html
+  944  ls
+  945  cd ..
+  946  ls
+  947  vim README.md
+  948  git status
+  949  git add *
+  950  git status
+  951  git commit -m "Tagebericht"
+  952  git push
+  953  cd ..
+  954  ls
+  955  ls -a
+  956  vim /.vimrc
+  957  ls -a
+  958  less .viminfo
+  959  touch .vimrc
+  960  vim .vimrc
+  961  ls
+  962  ls -a
+  963  cd Praktikum/nginx_dev_enviroment
+  964  vim index.html
+  965  cd ...
+  966  vim .vimrc
+  967  cd Praktikum/nginx_dev_enviroment
+  968  vim index.html
+  969  cd ..
+  970  FROM httpd
+  971  from httpd
+  972  docker ps
+  973  docker rom httpd
+  974  docker from httpd
+  975  docker FOM httpd
+  976  docker FORM httpd
+  977  mkdir DockerImage
+  978  cd DockerImage
+  979  touch Dockerfile
+  980  code Dockerfile
+  981  ls
+  982  pwd
+  983  ls
+  984  cp cat.jpg ~/DockerImage
+  985  ls
+  986  cp index.html ~/DockerImage
+  987  cp styles.css ~/DockerImage
+  988  ls
+  989  docker build --tag hello
+  990  ls
+  991  docker build --tag hello
+  992  ls
+  993  touch Dockerfile 
+  994  ls 
+  995  code Dockerfile
+  996  docker build --tag hello .
+  997  ls
+  998  code Dockerfile
+  999  cd ..
+ 1000  ls
+ 1001  cd DockerImage
+ 1002  ls
+ 1003  docker build --tag LebnslaufImage .
+ 1004  docker build --tag firstimage .
+ 1005  ls
+ 1006  docker run --rm firstimage
+ 1007  docker ps -a
+ 1008  docker run -d firstimage
+ 1009  docker ps
+ 1010  ls
+ 1011  vim Dockerfile
+ 1012  docker build --tag firstimage .
+ 1013  docker ps
+ 1014  docker kill d918acd85830
+ 1015  docker kill 8354e5e948a7
+ 1016  docker ps
+ 1017  docker kill c2700ecb906d
+ 1018  docker ps
+ 1019  ls
+ 1020  docker build --tag second-image .
+ 1021  docker run -d -p 8080:80 second-image 
+ 1022  docker ps
+ 1023  docker kill 89c7b7e023e9
+ 1024  vim Dockerfile
+ 1025  docker ps
+ 1026  docker kill 6f58e8bbadf3
+ 1027  docker ps
+ 1028  docker build --tag try3 .
+ 1029  docker run -d -p 8080:80 try3 
+ 1030  docker ps
+ 1031  vim Dockerfile
+ 1032  ls
+ 1033  cd DockerImage
+ 1034  ls
+ 1035  cd Praktikum/nginx_dev_enviroment
+ 1036  ls
+ 1037  docker image ls
+ 1038  ls
+ 1039  pwd
+ 1040  cp /Users/rtalakh/DockerImage/Dockerfile
+ 1041  ls
+ 1042  git add *
+ 1043  git status
+ 1044  git commit -m "Docker image"
+ 1045  git push
+ 1046  docker build --tag try4 .
+ 1047  vim Dockerfile
+ 1048  docker build --tag try4 .
+ 1049  vim Dockerfile
+ 1050  ls 
+ 1051  cd DockerImage
+ 1052  ls
+ 1053  vim Dockerfile
+ 1054  docker build --tag try4 .
+ 1055  docker run -d -p 8081:80 try4
+ 1056  docker ps
+ 1057  docker run -d -p 8085:80 try4
+ 1058  ls
+ 1059  git add *
+ 1060  git commit -m "final"
+ 1061  git push
+ 1062  ls
+ 1063  docker push rt11/rest try4
+ 1064  docker tag try4 rt11/my-app:latest
+ 1065  docker push rt11/my-app:latest
+ 1066  docker login
+ 1067  docker image ls
+ 1068  docker image push try4:latest
+ 1069  docker build -t rt11/myapp:v1
+ 1070  docker build -t rt11/myapp:v1 .
+ 1071  ls
+ 1072  docker build -t rt11/myapp:1 .
+ 1073  docker login
+ 1074  docker build -t rt11/myapp:1 .
+ 1075  docker image ls
+ 1076  docker image push rt11/myapp:v1
+ 1077  docker image push rt11/myapp:1
+ 1078  docker build -t rt11/myapp:2 .
+ 1079  docker image push rt11/myapp:2
+ 1080  docker pull jonasjy/testimage:1.0
+ 1081  docker image ls
+ 1082  docker run -d p 8086:80 5266c8982c7c 
+ 1083  docker run -d -p 8086:80 5266c8982c7c 
+ 1084  docker ps
+ 1085  ls
+ 1086  docker ps
+ 1087  docper ps
+ 1088  docker ps
+ 1089  ls
+ 1090  cd praktikum
+ 1091  ls
+ 1092* cd Praktikums-Repository
+ 1093* ls
+ 1094* git pull
+ 1095* ls
+ 1096* vim README.md
+ 1097* cd Monatg
+ 1098* cd Montag/
+ 1099* ls
+ 1100* vim montag.md 
+ 1101* cd ..
+ 1102* ls
+ 1103* clear
+ 1104  ls
+ 1105  vim README.md
+ 1106  ls
+ 1107  cd nginx_dev_enviroment
+ 1108  ls
+ 1109  vim index.html
+ 1110  history
+ 1111* brew install virtualbox
+ 1112  mkdir BashHistory
+ 1113  ls
+ 1114  cd BashHistory
+ 1115  touch History.txt
+ 1116  ls
