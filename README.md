@@ -2,7 +2,7 @@
 Dieses Repository dient der Speicherung meines Praktikumsberichts für die nächsten 4 Wochen. Zudem werde ich einige Tests durchführen, die das Pushen und Pullen verschiedener Daten beinhalten.
 
 # Woche 1
-Montag
+## Montag
 1. Docker 
 2. Container 
 3. Team kennengelernt 
@@ -10,14 +10,14 @@ Montag
 5. Grundlagen besprochen  
 6. Zsh installiert
 
-Dienstag 
+## Dienstag 
 1. Daly scrum 
 2. Nginx 
 3. Wie packet Manager funktioniert 
 4. Docker container vertiefung
 5. Docker volume
 
-Mitwoch
+## Mitwoch
 1. Github 
 2. SSH key erstellt 
 3. README.md 
@@ -27,7 +27,7 @@ Mitwoch
 7. Readmedateis in vscode erstellt 
 
 
-Donnertsag
+## Donnertsag
 1. Connect docker container to github 
 2. create Website (html, css, image)
 3. website hochladen und in github redactieren 
@@ -36,6 +36,6 @@ Donnertsag
 6. image in docker hub hochladen 
 
 
-Freitag 
+## Freitag 
 
 
