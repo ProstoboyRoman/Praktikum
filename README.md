@@ -37,5 +37,13 @@ Dieses Repository dient der Speicherung meines Praktikumsberichts für die näch
 
 
 ## Freitag 
+1. Virtualbox installiert 
+2. Ubntu server 
+3. ssh verbindung 
+4. ufw (firewall)
+5. Unterschied in serversystemen
+6. Monolit, Stereo, Cloud Servers
+7. Poxmox Basic
 
+ 
 
