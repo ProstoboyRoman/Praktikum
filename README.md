@@ -33,6 +33,8 @@ Donnertsag
 2. create Website (html, css, image)
 3. website hochladen und in github redactieren 
 4. apache webserwer (httpd)
+5. eingenes image in docker erstellen
+6. image in docker hub hochladen 
 
 
 Freitag 
