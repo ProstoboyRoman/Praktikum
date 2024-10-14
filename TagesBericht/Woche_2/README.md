@@ -1,9 +1,9 @@
 # Woche 2 TEAM P
 
 ## Montag 
-DNS
-Bind9
-Mail
+1. DNS
+2. Bind9
+3. Mail
 
 ## Dienstag 
 
