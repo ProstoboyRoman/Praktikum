@@ -8,7 +8,7 @@
 ## Dienstag 
 1. Wieder mit DNS
 2. Zweite VM einstellen
-    
+3. erste VM einstellen Damit Ping Funktioniert
 
 ## Mitwoch 
 
