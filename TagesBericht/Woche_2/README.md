@@ -8,9 +8,13 @@
 ## Dienstag 
 1. Wieder mit DNS
 2. Zweite VM einstellen
-3. erste VM einstellen Damit Ping Funktioniert
-
+3. beides VM einstellen Damit Ping gegenseitig Funktioniert
+4. meeting
+   
 ## Mitwoch 
+1. Zoom meeting zum thema DNS Adblocker
+2. 
+
 
 ## Donnerstag
 
