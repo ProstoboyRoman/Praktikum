@@ -13,7 +13,8 @@
    
 ## Mitwoch 
 1. Zoom meeting zum thema DNS Adblocker
-2. 
+2. Change Ip apddress
+3. CNAME funktioniert
 
 
 ## Donnerstag
