@@ -11,7 +11,7 @@
 3. beides VM einstellen Damit Ping gegenseitig Funktioniert
 4. meeting
    
-## Mitwoch 
+## Mittwoch 
 1. Zoom meeting zum thema DNS Adblocker
 2. Change Ip apddress
 3. CNAME funktioniert
