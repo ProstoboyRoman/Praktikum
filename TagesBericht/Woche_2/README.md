@@ -19,6 +19,13 @@
 5. Prometheus
 
 ## Donnerstag
+1. Node_exporter
+2. Bind_exporter
+3. Prometheus Setup
+4. Grafana Outpute
+5. how to download from link in terminal 
 
 ## Freitag
+
+1. Führerschein Prüfung 
 
