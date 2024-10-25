@@ -5,6 +5,7 @@
 ## https 
 
 ## DDNS
+https://www.youtube.com/watch?v=rI-XxnyWFnM
 
 ## Static IP
 
