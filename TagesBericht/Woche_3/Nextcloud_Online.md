@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=rI-XxnyWFnM
 ### how to config router
 https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/1_Benutzeroberflache-der-FRITZ-Box-aufrufen/
 
+### Pihole guide
+https://www.youtube.com/watch?v=BvvMED65aNI
