@@ -10,7 +10,7 @@
 ## Dienstag
 1. Rescheschiert über raspberry pi
 2. jonas geholfen
-3. meating
+3. meeting
 
 ## Mittwoch
 1. Raspberry pi bekommen
@@ -26,4 +26,7 @@
 
 ## Freitag 
 1. raspberry pi alternativen
-2. 
+2. meeting
+3. nextcloud vertievung
+4. pihole und nextcloud ohne docker
+5. 
