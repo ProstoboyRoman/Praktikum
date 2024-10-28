@@ -1,9 +1,11 @@
-# Woche 4 TEAM 
+# Woche 4 TEAM A und B
 
 ## Montag 
 1. Meating
-2. Kubernetis
-3. Datenschutzt 
+2. Kubernetes
+3. Datenschutzt
+4. Rechnungen
+5. Kunden
 
 ## Dienstag
 
