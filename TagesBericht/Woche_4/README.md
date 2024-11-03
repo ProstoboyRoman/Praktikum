@@ -8,10 +8,18 @@
 5. Kunden
 
 ## Dienstag
+1. Kubernetis vertiefung 
+2. Traefik
+3. Meeting 
 
 ## Mittwoch
+1. Traefik vertiefung
+2. Presentation
 
 ## Donnerstag
+1. Presentation über ganze praktikum vorbereite
+2. Presentiert in zoom meeting 
+3. laptops agabe
 
 ## Freitag 
 
